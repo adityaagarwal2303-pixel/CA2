@@ -227,28 +227,6 @@ No inline styles (all in CSS file)
 
 Clean, organized code structure
 
-🔗 GitHub Repository
-This project is ready for GitHub hosting:
-
-Create a new repository named tech-club-website
-
-Initialize git in your project folder: git init
-
-Add files: git add .
-
-Commit: git commit -m "Initial commit: Multi-page college club website"
-
-Add remote: git remote add origin https://github.com/yourusername/tech-club-website.git
-
-Push: git push -u origin main
-
-Enable GitHub Pages
-Go to repository Settings → Pages
-
-Select main branch as source
-
-Your site will be available at: https://yourusername.github.io/tech-club-website/
-
 📋 File Descriptions
 index.html (Home Page)
 Hero banner with welcome message
